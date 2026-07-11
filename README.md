@@ -19,7 +19,7 @@ An interactive digital experience that presents my approach to social media—fr
 ```text
 /
 ├── index.html          # Personal Portfolio
-├── social/
+├── SOCIAL WORKFLOW/
 │   └── index.html      # Social Media Workflow
 └── README.md
 ```
