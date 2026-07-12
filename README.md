@@ -1,26 +1,18 @@
-# Sree — Personal Portfolio & Social Media Workflow
+# Sree — Social Media Workflow
 
-This repository contains my personal portfolio and an interactive social media workflow experience.
-
-## Personal Portfolio
-
-My personal portfolio brings together selected work across creative strategy, social media, visual design, photography, filmmaking, and storytelling.
-
-**Path:** `/index.html`
+This repository contains an interactive social media workflow experience.
 
 ## Social Media Workflow
 
 An interactive digital experience that presents my approach to social media—from research and strategy to content planning, creative development, execution, and analysis.
 
-**Path:** `/social/index.html`
+**Path:** `/index.html`
 
 ## Repository Structure
 
 ```text
 /
-├── index.html          # Personal Portfolio
-├── SOCIAL WORKFLOW/
-│   └── index.html      # Social Media Workflow
+├── index.html      # Social Media Workflow
 └── README.md
 ```
 
